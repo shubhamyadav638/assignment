@@ -1,6 +1,6 @@
 import React, { Suspense } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-const Login = React.lazy(() => import("./pages/login"));
+const Login = React.lazy(() => import("./pages/Login"));
 const Userslist = React.lazy(() => import("./pages/Userlist"));
 
 function App() {
