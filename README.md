@@ -1,12 +1,51 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# **Assignment Project**  
 
-Currently, two official plugins are available:
+This project is a simple web application built for internship purposes.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo  
+[Click here to view the live project](https://assignmentinternship1.netlify.app/)  
 
-## Expanding the ESLint configuration
+## 🛠 Setup Instructions  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Follow these steps to set up the project on your local machine:  
+
+### **Prerequisites**  
+Make sure you have the following installed:  
+- [Node.js](https://nodejs.org/)  
+- [Git](https://git-scm.com/)  
+
+### **Steps to Run Locally**  
+
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/shubhamyadav638/assignment.git
+   cd assignment
+   ```
+
+2. **Install dependencies**  
+   ```sh
+   npm install
+   ```
+
+3. **Run the project**  
+   ```sh
+   npm run dev
+   ```
+
+4. Open [http://localhost:3000/](http://localhost:3000/) in your browser.  
+
+## 🔧 **Technologies Used**  
+- **React.js**  
+- **Redux Toolkit**  
+- **Tailwind CSS**  
+- **API Integration**  
+- **Axios**  
+- **react-router-dom**  
+- **react-hot-toast**
+---
+### Interface
+![Screenshot (305)](https://github.com/user-attachments/assets/cd7ac004-bb59-41f0-bc77-517e8242b41f)
+
+
+---
